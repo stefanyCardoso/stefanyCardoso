@@ -4,7 +4,7 @@ Eu me chamo Stefany Cardoso, sou desenvolvedora Front-end e criadora de conteúd
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://user-images.githubusercontent.com/38002821/224826961-18216ac1-d863-4a2d-a83a-927b4548e898.png">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
