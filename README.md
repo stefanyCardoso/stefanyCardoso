@@ -1,4 +1,4 @@
-### Salve !! ✌
+###   Oii 
 
 Eu me chamo Stefany Cardoso, sou desenvolvedora Front-end e criadora de conteúdo. Quer saber mais sobre mim? então segue o fio:
 
@@ -17,7 +17,9 @@ Eu me chamo Stefany Cardoso, sou desenvolvedora Front-end e criadora de conteúd
 
 Estou estudando:
 
-Angular 8+
+React
+Jest
+CI/CD
 
 ###
 
