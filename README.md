@@ -17,9 +17,7 @@ Eu me chamo Stefany Cardoso, sou desenvolvedora Front-end e criadora de conteúd
 
 Estou estudando:
 
-React
-Jest
-CI/CD
+React | Jest | Padrões e Arquitetura de projeto
 
 ###
 
